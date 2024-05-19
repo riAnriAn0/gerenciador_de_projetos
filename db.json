@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "id": "b49e",
+      "name": "Curso de ",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "budget": "400",
+      "costs": 0,
+      "services": [],
+      "service": [
+        {
+          "name": "serviço 3",
+          "costs": "20",
+          "description": "nanaannananana",
+          "id": "0509b269-bc98-45f4-91db-559b967319a5"
+        },
+        {
+          "name": "djss",
+          "costs": "20",
+          "description": "nanaannananana",
+          "id": "d63560d2-7b45-4379-b28d-f2d4662b5a68"
+        }
+      ]
+    },
+    {
+      "id": "9b00",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "Fim do projeto",
+      "budget": "90000",
+      "costs": 5462,
+      "services": [
+        {
+          "name": "casinha da ",
+          "costs": "5462",
+          "description": "nanaannananana",
+          "id": "17bc0025-bbdc-4284-a2fb-837337861c3c"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    },
+    {
+      "id": "5",
+      "name": "Mercado"
+    }
+  ]
+}
